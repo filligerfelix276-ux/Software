@@ -1,0 +1,28 @@
+# IDE / editor
+.vscode/
+.settings/
+*.code-workspace
+
+# STM32 / build outputs
+Debug/
+Release/
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.obj
+*.d
+*.lst
+*.log
+*.su
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git itself
+.git/
